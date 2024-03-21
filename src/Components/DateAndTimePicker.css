@@ -1,0 +1,11 @@
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root {
+  color: white !important;
+  border: 2px solid white !important;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

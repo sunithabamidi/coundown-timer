@@ -1,0 +1,12 @@
+.cancel-timer-button {
+  margin: 1rem;
+}
+
+button {
+  border: 2px solid white;
+  border-radius: 0.3rem;
+  background-color: transparent;
+  color: white;
+  width: 7rem;
+  height: 2.5rem;
+}
